@@ -1,0 +1,14 @@
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.AssemblyInfoInputs.cache
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.AssemblyInfo.cs
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\bin\MCD\Debug\net7.0\fizzBuzz.exe
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\bin\MCD\Debug\net7.0\fizzBuzz.deps.json
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\bin\MCD\Debug\net7.0\fizzBuzz.runtimeconfig.json
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\bin\MCD\Debug\net7.0\fizzBuzz.dll
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\bin\MCD\Debug\net7.0\fizzBuzz.pdb
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.dll
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\refint\fizzBuzz.dll
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.pdb
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\fizzBuzz.genruntimeconfig.cache
+C:\Users\camyb\Desktop\Coding Projects\cSharpTutorial\fizzBuzz\obj\MCD\Debug\net7.0\ref\fizzBuzz.dll
